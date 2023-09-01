@@ -1,0 +1,14 @@
+D:\Learning\NetworkProgramming\SocketServer\bin\Debug\net6.0\SocketServer.exe
+D:\Learning\NetworkProgramming\SocketServer\bin\Debug\net6.0\SocketServer.deps.json
+D:\Learning\NetworkProgramming\SocketServer\bin\Debug\net6.0\SocketServer.runtimeconfig.json
+D:\Learning\NetworkProgramming\SocketServer\bin\Debug\net6.0\SocketServer.dll
+D:\Learning\NetworkProgramming\SocketServer\bin\Debug\net6.0\SocketServer.pdb
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.AssemblyInfo.cs
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.dll
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\refint\SocketServer.dll
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.pdb
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\SocketServer.genruntimeconfig.cache
+D:\Learning\NetworkProgramming\SocketServer\obj\Debug\net6.0\ref\SocketServer.dll
