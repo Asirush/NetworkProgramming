@@ -13,6 +13,8 @@ namespace SocketServer
                 IPHostEntry hostEntry = Dns.GetHostEntry("localhost");
                 IPAddress address = hostEntry.AddressList[1];
 
+                //address = IPAddress.Parse("192.168.0.1");
+
                 IPEndPoint endPoint = new IPEndPoint(address, 23456);
 
                 Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);

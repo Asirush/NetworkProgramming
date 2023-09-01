@@ -1,0 +1,14 @@
+D:\Learning\NetworkProgramming\SocketClient\bin\Debug\net6.0\SocketClient.exe
+D:\Learning\NetworkProgramming\SocketClient\bin\Debug\net6.0\SocketClient.deps.json
+D:\Learning\NetworkProgramming\SocketClient\bin\Debug\net6.0\SocketClient.runtimeconfig.json
+D:\Learning\NetworkProgramming\SocketClient\bin\Debug\net6.0\SocketClient.dll
+D:\Learning\NetworkProgramming\SocketClient\bin\Debug\net6.0\SocketClient.pdb
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.AssemblyInfo.cs
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.dll
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\refint\SocketClient.dll
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.pdb
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\SocketClient.genruntimeconfig.cache
+D:\Learning\NetworkProgramming\SocketClient\obj\Debug\net6.0\ref\SocketClient.dll

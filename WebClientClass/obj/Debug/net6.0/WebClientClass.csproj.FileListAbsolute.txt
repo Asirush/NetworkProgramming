@@ -1,0 +1,14 @@
+D:\Learning\NetworkProgramming\WebClientClass\bin\Debug\net6.0\WebClientClass.exe
+D:\Learning\NetworkProgramming\WebClientClass\bin\Debug\net6.0\WebClientClass.deps.json
+D:\Learning\NetworkProgramming\WebClientClass\bin\Debug\net6.0\WebClientClass.runtimeconfig.json
+D:\Learning\NetworkProgramming\WebClientClass\bin\Debug\net6.0\WebClientClass.dll
+D:\Learning\NetworkProgramming\WebClientClass\bin\Debug\net6.0\WebClientClass.pdb
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.AssemblyInfo.cs
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.dll
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\refint\WebClientClass.dll
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.pdb
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\WebClientClass.genruntimeconfig.cache
+D:\Learning\NetworkProgramming\WebClientClass\obj\Debug\net6.0\ref\WebClientClass.dll
