@@ -1,0 +1,14 @@
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\bin\Debug\net6.0\UdpClientApp(TcpUdpSockets).exe
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\bin\Debug\net6.0\UdpClientApp(TcpUdpSockets).deps.json
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\bin\Debug\net6.0\UdpClientApp(TcpUdpSockets).runtimeconfig.json
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\bin\Debug\net6.0\UdpClientApp(TcpUdpSockets).dll
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\bin\Debug\net6.0\UdpClientApp(TcpUdpSockets).pdb
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).AssemblyInfo.cs
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).dll
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\refint\UdpClientApp(TcpUdpSockets).dll
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).pdb
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\UdpClientApp(TcpUdpSockets).genruntimeconfig.cache
+D:\Learning\NetworkProgramming\UdpClientApp(TcpUdpSockets)\obj\Debug\net6.0\ref\UdpClientApp(TcpUdpSockets).dll
