@@ -1,0 +1,17 @@
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\TCPServer.exe
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\TCPServer.deps.json
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\TCPServer.runtimeconfig.json
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\TCPServer.dll
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\TCPServer.pdb
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.csproj.AssemblyReference.cache
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfo.cs
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.csproj.CopyComplete
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.dll
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\refint\TCPServer.dll
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.pdb
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\TCPServer.genruntimeconfig.cache
+D:\Learning\NetworkProgramming\TCPFileServer\TCPServer\obj\Debug\net6.0\ref\TCPServer.dll

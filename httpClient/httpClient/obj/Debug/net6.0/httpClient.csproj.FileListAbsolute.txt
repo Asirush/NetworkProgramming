@@ -1,0 +1,14 @@
+D:\Learning\NetworkProgramming\httpClient\httpClient\bin\Debug\net6.0\httpClient.exe
+D:\Learning\NetworkProgramming\httpClient\httpClient\bin\Debug\net6.0\httpClient.deps.json
+D:\Learning\NetworkProgramming\httpClient\httpClient\bin\Debug\net6.0\httpClient.runtimeconfig.json
+D:\Learning\NetworkProgramming\httpClient\httpClient\bin\Debug\net6.0\httpClient.dll
+D:\Learning\NetworkProgramming\httpClient\httpClient\bin\Debug\net6.0\httpClient.pdb
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.AssemblyInfoInputs.cache
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.AssemblyInfo.cs
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.csproj.CoreCompileInputs.cache
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.dll
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\refint\httpClient.dll
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.pdb
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\httpClient.genruntimeconfig.cache
+D:\Learning\NetworkProgramming\httpClient\httpClient\obj\Debug\net6.0\ref\httpClient.dll
